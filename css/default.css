@@ -62,3 +62,28 @@ body{
 .rotate{
   transform: rotate(30deg);
 }
+
+p.transition{
+  margin:10px;
+}
+p.trabsition a{
+  background-color:mediumseagreen;
+  color:white;
+  font-size:30px;
+  text-decoration:none;
+  padding:5px;
+  transition:background-color 1s 0s,color 1s 1s;
+}
+p.transition a:hover{
+  background-color:gold;
+  text-deciration:none;
+  padding:5px;
+  color:black;
+}
+
+
+
+
+
+
+

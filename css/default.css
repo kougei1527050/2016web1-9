@@ -19,3 +19,27 @@ body{
 .box-drop_shadow{
   box-shadow:2px 2px 5px gray;   padding:5px; margin:20px;
 }
+
+#gradient{
+  font-size: 30px;
+}
+
+.two-grodient{
+  background-color:white;
+  background: linear-gradient(0deg,orangered 0%,white 50%);
+}
+
+.botton{
+  display:block;
+  margin:5px;
+  padding:10px;
+  width:200px;
+  text-align:center;
+  border-radius:5px;
+  box-shadow:1px 1px 3px dimgray;
+  color:white;
+  font-weight:bold;
+  text-shadow:1px 1px 0 rgba(0,0,0,0.4);
+  background-color:blue;
+  background:linear-gradient(0deg,#00679A,#0081B4 50%,#63B3D2 50%,#BFE5F2);
+}

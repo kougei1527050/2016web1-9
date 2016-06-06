@@ -1,4 +1,6 @@
-body{
+body{  
+  background-image:url(../good.jpg),url(../siro.JPG);
+  background-repeat:no-repeat,no-repeat;
   background-color:lightgrey;
   margin:5px;
 }

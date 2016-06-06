@@ -26,7 +26,9 @@ body{
 
 .two-grodient{
   background-color:white;
-  background: linear-gradient(0deg,orangered 0%,white 50%);
+  background: linear-gradient(0deg,
+  orangered 0%,
+  white 50%);
 }
 
 .botton{
@@ -41,5 +43,9 @@ body{
   font-weight:bold;
   text-shadow:1px 1px 0 rgba(0,0,0,0.4);
   background-color:blue;
-  background:linear-gradient(0deg,#00679A,#0081B4 50%,#63B3D2 50%,#BFE5F2);
+  background:linear-gradient(0deg,
+  #00679A,
+  #0081B4 50%,
+  #63B3D2 50%,
+  #BFE5F2);
 }

@@ -24,14 +24,14 @@ body{
   font-size: 30px;
 }
 
-.two-grodient{
+.two-gradient{
   background-color:white;
   background: linear-gradient(0deg,
   orangered 0%,
   white 50%);
 }
 
-.botton{
+.button{
   display:block;
   margin:5px;
   padding:10px;

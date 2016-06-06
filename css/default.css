@@ -50,6 +50,14 @@ body{
   #BFE5F2);
 }
 
+.transform{
+  font-size: 10px;
+  width:100px;
+  text-align:center;
+  padding:45px 0px;
+  margin:20px;
+  background-color: mediumspsinggreen;
+}
 
 .rotate{
   transform: rotate(30deg);
